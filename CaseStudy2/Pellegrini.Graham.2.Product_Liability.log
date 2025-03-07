@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.26)  7 MAR 2025 16:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.26)  7 MAR 2025 22:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -123,20 +123,20 @@ File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 ) (Pellegrini.Graham.2.Product_Liability.aux)
 \openout1 = `Pellegrini.Graham.2.Product_Liability.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
  (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count281
@@ -199,31 +199,79 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 14.
+(Font)              <14.4> on input line 15.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 14.
+(Font)              <7> on input line 15.
 
 
 [1
 
-{C:/Users/user/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (Pellegrini.Graham.2.Product_Liability.aux)
+{C:/Users/user/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+
+[2]
+
+[3]
+
+[4]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 105.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 105.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 105.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 105.
+
+
+[5]
+<Plagiarism_Declaration_Form.pdf, id=24, 614.295pt x 794.97pt>
+File: Plagiarism_Declaration_Form.pdf Graphic file (type pdf)
+<use Plagiarism_Declaration_Form.pdf>
+Package pdftex.def Info: Plagiarism_Declaration_Form.pdf  used on input line 108.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+<Plagiarism_Declaration_Form.pdf, id=26, page=1, 614.295pt x 794.97pt>
+File: Plagiarism_Declaration_Form.pdf Graphic file (type pdf)
+<use Plagiarism_Declaration_Form.pdf, page 1>
+Package pdftex.def Info: Plagiarism_Declaration_Form.pdf , page1 used on input line 108.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: Plagiarism_Declaration_Form.pdf Graphic file (type pdf)
+<use Plagiarism_Declaration_Form.pdf, page 1>
+Package pdftex.def Info: Plagiarism_Declaration_Form.pdf , page1 used on input line 108.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: Plagiarism_Declaration_Form.pdf Graphic file (type pdf)
+<use Plagiarism_Declaration_Form.pdf, page 1>
+Package pdftex.def Info: Plagiarism_Declaration_Form.pdf , page1 used on input line 108.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: Plagiarism_Declaration_Form.pdf Graphic file (type pdf)
+<use Plagiarism_Declaration_Form.pdf, page 1>
+Package pdftex.def Info: Plagiarism_Declaration_Form.pdf , page1 used on input line 108.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+
+
+File: Plagiarism_Declaration_Form.pdf Graphic file (type pdf)
+<use Plagiarism_Declaration_Form.pdf, page 1>
+Package pdftex.def Info: Plagiarism_Declaration_Form.pdf , page1 used on input line 108.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[6
+
+ <./Plagiarism_Declaration_Form.pdf>] (Pellegrini.Graham.2.Product_Liability.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-12-25>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 3602 strings out of 473536
- 58315 string characters out of 5715440
- 462536 words of memory out of 5000000
- 26805 multiletter control sequences out of 15000+600000
- 561260 words of font info for 44 fonts, out of 8000000 for 9000
+ 3634 strings out of 473536
+ 59050 string characters out of 5715440
+ 467552 words of memory out of 5000000
+ 26830 multiletter control sequences out of 15000+600000
+ 564035 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,6n,79p,287b,201s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on Pellegrini.Graham.2.Product_Liability.pdf (1 page, 44236 bytes).
+ 72i,17n,79p,546b,430s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb>
+Output written on Pellegrini.Graham.2.Product_Liability.pdf (6 pages, 119803 bytes).
 PDF statistics:
- 21 PDF objects out of 1000 (max. 8388607)
+ 80 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
